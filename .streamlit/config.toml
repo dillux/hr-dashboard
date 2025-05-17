@@ -1,0 +1,6 @@
+[server]
+port = 8503
+
+[browser]
+serverAddress = "localhost"
+gatherUsageStats = false
